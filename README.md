@@ -19,25 +19,27 @@
 ### TryHackMe
 - [x] Linux Fundamentals Part 1
 - [x] Linux Fundamentals Part 2
-- [ ] Linux Fundamentals Part 3
+- [x] Linux Fundamentals Part 3
 - [x] Pre-Security Path – Computer Types
+- [x] Pre-Security Path – next room
 - [ ] Pre-Security Path (remaining)
 - [ ] SOC Level 1 Path
 
 ### OverTheWire
 - [x] Bandit Level 2
 - [x] Bandit Level 3
-- [ ] Bandit Level 4
+- [x] Bandit Level 4
+- [ ] Bandit Level 5
 
 ### LetsDefend
 - [x] First look at SOC logs/alerts
-- [ ] SOC Alerts (0/90)
+- [x] SOC Alerts (2/90) — SharePoint Tool Shell + second alert
 
 ### Certifications
 - [ ] CompTIA Security+ (Target: September 2026)
 
 ### Other
-- Anki: 20 flashcards created (10 Day 1 + 10 Day 2)
+- Anki: 30 flashcards created (10 per day × 3 days)
 - LinkedIn: Profile optimized + 5 connection requests sent
 
 ---
@@ -64,7 +66,15 @@
 - ✅ Anki: 10 more flashcards (20 total)
 - ✅ LinkedIn: 5 connection requests sent, profile optimized
 
-**Tomorrow (Day 3):** Linux Fundamentals Part 3 + Bandit Level 4 + Anki Review
+### Day 3 – August 10, 2026
+- ✅ TryHackMe: Linux Fundamentals Part 3 completed
+- ✅ TryHackMe: Pre-Security next room completed
+- ✅ LetsDefend: 2 SOC Alerts solved (SharePoint Tool Shell + second alert)
+- ✅ OverTheWire: Bandit Level 4 completed
+- ✅ Anki: 10 new flashcards (30 total)
+- ✅ LinkedIn: Checked connections
+
+**Tomorrow (Day 4):** Continue Pre-Security Path + Bandit Level 5 + more LetsDefend alerts + Anki review
 
 ---
 
