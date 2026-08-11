@@ -22,6 +22,7 @@
 - [x] Linux Fundamentals Part 3
 - [x] Pre-Security Path – Computer Types
 - [x] Pre-Security Path – next room
+- [x] Pre-Security Path – Virtualization Basics
 - [ ] Pre-Security Path (remaining)
 - [ ] SOC Level 1 Path
 
@@ -29,17 +30,21 @@
 - [x] Bandit Level 2
 - [x] Bandit Level 3
 - [x] Bandit Level 4
-- [ ] Bandit Level 5
+- [x] Bandit Level 5
+- [ ] Bandit Level 6
 
 ### LetsDefend
 - [x] First look at SOC logs/alerts
-- [x] SOC Alerts (2/90) — SharePoint Tool Shell + second alert
+- [x] SOC Alerts (3/90)
+  - SharePoint Tool Shell
+  - Second alert
+  - Lumma Stealer SOC338 (True Positive — Data leak)
 
 ### Certifications
 - [ ] CompTIA Security+ (Target: September 2026)
 
 ### Other
-- Anki: 30 flashcards created (10 per day × 3 days)
+- Anki: 40 flashcards (30 reviewed + 10 new)
 - LinkedIn: Profile optimized + 5 connection requests sent
 
 ---
@@ -74,7 +79,17 @@
 - ✅ Anki: 10 new flashcards (30 total)
 - ✅ LinkedIn: Checked connections
 
-**Tomorrow (Day 4):** Continue Pre-Security Path + Bandit Level 5 + more LetsDefend alerts + Anki review
+### Day 4 – August 12, 2026
+- ✅ TryHackMe: Pre-Security "Virtualization Basics" completed
+- ✅ OverTheWire: Bandit Level 5 completed
+- ✅ LetsDefend: 3rd SOC Alert solved — "Lumma Stealer SOC338"
+  - Attack vector: Social Engineering via email
+  - Malicious shortcut file opened PowerShell
+  - Attacker pasted malicious script + downloaded malware from URL
+  - Confirmed: True Positive — Data leak occurred
+- ✅ Anki: 30 cards reviewed + 10 new cards (40 total)
+
+**Tomorrow (Day 5):** Continue Pre-Security Path + Bandit Level 6 + more LetsDefend alerts + Anki review
 
 ---
 
