@@ -9,7 +9,7 @@
 
 - Aspiring SOC Analyst
 - Currently studying: CompTIA Security+
-- Practicing on: TryHackMe, LetsDefend, OverTheWire, Splunk
+- Practicing on: TryHackMe, LetsDefend, OverTheWire, Splunk, CyberDefenders
 - Tools: Anki (spaced repetition)
 
 ---
@@ -23,28 +23,32 @@
 - [x] Pre-Security Path – Computer Types
 - [x] Pre-Security Path – next room
 - [x] Pre-Security Path – Virtualization Basics
-- [ ] Pre-Security Path (remaining)
+- [x] Network Fundamentals – What is Network?
+- [ ] Pre-Security / Network Path (remaining)
 - [ ] SOC Level 1 Path
 
 ### OverTheWire
-- [x] Bandit Level 2
-- [x] Bandit Level 3
-- [x] Bandit Level 4
-- [x] Bandit Level 5
-- [ ] Bandit Level 6
+- [x] Bandit Levels 2–10
+- [ ] Bandit Level 11+
 
 ### LetsDefend
-- [x] First look at SOC logs/alerts
-- [x] SOC Alerts (3/90)
+- [x] SOC Alerts (5/90)
   - SharePoint Tool Shell
   - Second alert
   - Lumma Stealer SOC338 (True Positive — Data leak)
+  - 4th alert
+  - SOC342 – SVC2025 – 5370 (SharePoint ToolShell Auto Bypass and RCE)
 
-### Certifications
+### CyberDefenders
+- [x] Just Brains lab + 9 questions
+
+### Certifications / Practice
 - [ ] CompTIA Security+ (Target: September 2026)
+- [x] ExamCompass: Security+ SY0-701 Practice Test 1 (20 questions)
+- [x] Udemy: First video watched
 
 ### Other
-- Anki: 40 flashcards (30 reviewed + 10 new)
+- Anki: 50 flashcards (40 reviewed + 10 new)
 - LinkedIn: Profile optimized + 5 connection requests sent
 
 ---
@@ -89,7 +93,19 @@
   - Confirmed: True Positive — Data leak occurred
 - ✅ Anki: 30 cards reviewed + 10 new cards (40 total)
 
-**Tomorrow (Day 5):** Continue Pre-Security Path + Bandit Level 6 + more LetsDefend alerts + Anki review
+### Day 5 – August 14, 2026
+- ✅ TryHackMe: Network Fundamentals "What is Network?" completed
+- ✅ OverTheWire: Bandit Levels 6–10 completed
+- ✅ ExamCompass: Security+ SY0-701 Practice Test 1 (20 questions)
+- ✅ LetsDefend: 5th SOC Alert solved
+  - Event ID: 320
+  - Alert: SOC342 – SVC2025 – 5370
+  - Attack: SharePoint ToolShell Auto Bypass and RCE
+- ✅ CyberDefenders: "Just Brains" lab + 9 questions
+- ✅ Anki: 40 cards reviewed + 10 new cards (50 total)
+- ✅ Udemy: First video watched
+
+**Tomorrow (Day 6):** Continue Network Fundamentals + Bandit + more LetsDefend alerts + Anki review
 
 ---
 
