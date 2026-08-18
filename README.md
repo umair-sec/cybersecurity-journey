@@ -1,6 +1,6 @@
 # 30-Week SOC Analyst Journey
 
-**Goal:** Land my first SOC Analyst role by January 2027  
+**Goal:** Land my first SOC Analyst (Level 1) role by January 2027  
 **Location:** Italy | **Start Date:** August 2026
 
 ---
@@ -8,113 +8,153 @@
 ## About Me
 
 - Aspiring SOC Analyst
-- Currently studying: CompTIA Security+
-- Practicing on: TryHackMe, LetsDefend, OverTheWire, Splunk, CyberDefenders
+- Currently studying: CompTIA Security+ (SY0-701)
+- Practicing on: TryHackMe, LetsDefend, OverTheWire, CyberDefenders, Splunk
 - Tools: Anki (spaced repetition)
 
 ---
 
-## Progress Tracker
+## Week 1 Complete
 
-### TryHackMe
-- [x] Linux Fundamentals Part 1–3
-- [x] Pre-Security Path – Computer Types, Virtualization Basics
-- [x] Network Fundamentals – What is Network?
-- [x] Network Fundamentals – Intro to LAN
-- [ ] Network Path (remaining)
-- [ ] SOC Level 1 Path
+**Period:** August 2026 (Days 1–7)
 
-### OverTheWire
-- [x] Bandit Levels 2–11
-- [ ] Bandit Levels 12–15
+### Week 1 Stats
 
-### LetsDefend
-- [x] SOC Alerts (6/90)
-  - SharePoint Tool Shell
-  - Second alert
-  - Lumma Stealer SOC338 (True Positive — Data leak)
-  - 4th alert
-  - SOC342 – SharePoint ToolShell Auto Bypass and RCE
-  - SOC169 – IDOR Attack (Tier 2 escalation)
-
-### CyberDefenders
-- [x] Just Brains lab + 9 questions
-
-### Certifications / Practice
-- [ ] CompTIA Security+ (Target: September 2026)
-- [x] ExamCompass: Security+ SY0-701 Practice Test 1 — 19/25 (76%), Score 89.83%
-- [x] Udemy: Domain 2 started (first video completed)
-
-### Other
-- Anki: 60 flashcards (50 reviewed + 10 new)
-- LinkedIn: Profile optimized, thank-you messages, 5 new connections, IDOR analysis post shared
+| Metric | Target | Achieved | Status |
+|--------|--------|----------|--------|
+| Security+ Domains | Start Domain 2 | Domain 1–2 started | Done |
+| Linux Practice | Basics | Bandit 0–14, Fundamentals 1–3 | Done |
+| SOC Alerts | — | 6 alerts solved | Ahead |
+| Anki Cards | ~70 | 60 cards | Done |
+| LinkedIn Connections | — | 17+ | Done |
+| Practice Questions | 20 | 25 (Score 89.83%) | Done |
 
 ---
 
-## Daily Logs
+## Security+ Study
 
-### Day 1 – August 2026
-- ✅ Set up GitHub portfolio (30-Week SOC Analyst Journey)
-- ✅ Defined goal: First SOC Analyst role by January 2027
-- ✅ Chose learning platforms: TryHackMe, LetsDefend, Splunk
-- ✅ Started CompTIA Security+ study plan (Target: September 2026)
-- ✅ Created initial Progress Tracker
-- ✅ Anki: 10 flashcards created
+### Domain 1: Threats, Attacks, and Vulnerabilities
+- [x] Threat Actors and Motivations
+- [x] Attack Vectors
+- [x] Malware Types (Virus, Worm, Trojan, Ransomware)
+- [x] Social Engineering (Phishing, Pretexting, Baiting)
+- [x] Application Attacks
+- [x] Network Attacks
 
-**Focus:** Foundation and portfolio setup
+### Domain 2: Architecture and Design
+- [x] Security Concepts
+- [x] Virtualization and Cloud Computing
+- [ ] Firewalls and VPNs (in progress)
 
-### Day 2 – August 8, 2026
-- ✅ TryHackMe: Linux Fundamentals Part 1 & 2 completed
-- ✅ OverTheWire: Bandit Levels 2–3 completed
-- ✅ TryHackMe: Pre-Security "Computer Types" completed
-- ✅ LetsDefend: First look at SOC logs/alerts
-- ✅ Anki: 10 more flashcards (20 total)
-- ✅ LinkedIn: 5 connection requests sent, profile optimized
+### Practice Exams
+- [x] ExamCompass Practice Test 1: **89.83%** (19/25 correct)
+- [ ] Review 6 incorrect questions
 
-### Day 3 – August 10, 2026
-- ✅ TryHackMe: Linux Fundamentals Part 3 completed
-- ✅ TryHackMe: Pre-Security next room completed
-- ✅ LetsDefend: 2 SOC Alerts solved
-- ✅ OverTheWire: Bandit Level 4 completed
-- ✅ Anki: 10 new flashcards (30 total)
-- ✅ LinkedIn: Checked connections
+---
 
-### Day 4 – August 12, 2026
-- ✅ TryHackMe: Pre-Security "Virtualization Basics" completed
-- ✅ OverTheWire: Bandit Level 5 completed
-- ✅ LetsDefend: 3rd SOC Alert — Lumma Stealer SOC338 (True Positive — Data leak)
-- ✅ Anki: 30 cards reviewed + 10 new (40 total)
+## Linux Skills
 
-### Day 5 – August 14, 2026
-- ✅ TryHackMe: Network Fundamentals "What is Network?" completed
-- ✅ OverTheWire: Bandit Levels 6–10 completed
-- ✅ ExamCompass: Security+ Practice Test 1 (20 questions)
-- ✅ LetsDefend: 5th SOC Alert — SharePoint ToolShell RCE
-- ✅ CyberDefenders: Just Brains lab + 9 questions
-- ✅ Anki: 40 reviewed + 10 new (50 total)
-- ✅ Udemy: First video watched
+| Platform | Completed |
+|----------|-----------|
+| TryHackMe Linux Fundamentals Part 1–3 | Done |
+| TryHackMe Pre-Security Path (partial) | Done |
+| OverTheWire Bandit 0–14 | Done |
 
-### Day 6 – August 17, 2026
-- ✅ Anki: 50 cards reviewed + 10 new cards (60 total)
-- ✅ Udemy: Domain 2 started, first video completed
-- ✅ ExamCompass: Security+ SY0-701 Practice Test 1
-  - 19/25 correct (76% success ratio)
-  - Score: 89.83%
-  - 6 incorrect — topics marked for review
-- ✅ OverTheWire: Bandit Level 11 completed
-- ✅ TryHackMe: Network Fundamentals "Intro to LAN" completed
-- ✅ LetsDefend: 6th SOC Alert — SOC169 IDOR Attack
-  - Attack Type: Insecure Direct Object Reference (IDOR)
-  - Attacker IP: 134.209.118.137
-  - Endpoint: /get_user_info/ (POST)
-  - Enumeration: userId=1 to 5
-  - Response: 200 OK (Successful attack)
-  - Containment: Request Containment applied
-  - Escalation: Tier 2
-- ✅ LinkedIn: Thank-you messages sent + 5 new connections
-- ✅ LinkedIn Post: IDOR Attack analysis shared
+**Key commands:** `ls`, `cd`, `cat`, `grep`, `chmod`, `chown`, `find`, `awk`, `sed`, `ps`, `top`, `kill`
 
-**Tomorrow (Day 7):** Bandit Levels 12–15 + Udemy Domain 2 remaining + more LetsDefend alerts + Anki review
+---
+
+## SOC Alert Analysis (LetsDefend — 6/90)
+
+| # | Alert | Type | Result |
+|---|-------|------|--------|
+| 1 | SharePoint Tool Shell | True Positive | Solved |
+| 2 | Second alert | True Positive | Solved |
+| 3 | Lumma Stealer SOC338 | Social Engineering / Data leak | Solved |
+| 4 | Event-related alert | — | Solved |
+| 5 | SOC342 SharePoint ToolShell RCE | RCE | Solved |
+| 6 | SOC169 IDOR Attack | IDOR (Tier 2 escalation) | Solved |
+
+### Skills gained
+- Log analysis and correlation
+- IOC identification and documentation
+- True / False Positive determination
+- Incident containment procedures
+- Tier 2 escalation protocols
+
+---
+
+## Networking
+
+| Room | Status |
+|------|--------|
+| TryHackMe – What is Network? | Done |
+| TryHackMe – Intro to LAN | Done |
+
+---
+
+## Anki Flashcards (60 total)
+
+| Day | Cards | Topics |
+|-----|-------|--------|
+| 1 | 10 | CIA Triad, Threats, Assets |
+| 2 | 10 | Common ports (22, 80, 443, 25, 53…) |
+| 3 | 10 | Malware types |
+| 4 | 10 | More ports (23, 110, 143, 993, 995) |
+| 5 | 10 | Firewall, VPN, IDS |
+| 6 | 10 | SIEM, Honeypot, Load Balancer |
+| 7 | Review | All cards reviewed |
+
+---
+
+## Professional Development
+
+### LinkedIn
+- Profile optimized for SOC Analyst role
+- 17+ cybersecurity connections
+- Posts: Linux progress, IDOR attack analysis
+- Thank-you messages to connections
+
+### GitHub
+- Daily progress documented in this repository
+
+---
+
+## Week 2 Plan
+
+| Day | Focus |
+|-----|--------|
+| Mon | Domain 3 (Implementation), Network Fundamentals, Wireshark |
+| Tue | Domain 3 (Cryptography), Network Fundamentals Part 2, key ports |
+| Wed | Domain 3 complete, TCP/IP, OSI, subnetting, Anki networking |
+| Thu | Domain 1 revision, Practice Qs Domain 2–3 (30), Bandit 15–20 |
+| Fri | Domain 4 start (Operations), Windows Fundamentals, LinkedIn |
+| Sat | Domain 4 (Incident Response), Practice Exam (~50 Qs), review mistakes |
+| Sun | Week revision, free practice, plan next week |
+
+---
+
+## Key Learnings (Week 1)
+
+1. Consistency compounds — daily hours add up fast
+2. Hands-on alerts teach more than videos alone
+3. Anki locks in facts (ports, malware, architecture)
+4. LinkedIn community adds motivation and advice
+5. Documenting progress helps recruiters see the journey
+
+---
+
+## Resources
+
+| Resource | Purpose |
+|----------|----------|
+| Udemy (Jason Dion SY0-701) | Security+ course |
+| TryHackMe | Linux, Network, SOC paths |
+| LetsDefend | SOC alert simulation |
+| OverTheWire | Linux command practice |
+| Anki | Spaced repetition |
+| CyberDefenders | Blue team labs |
+| ExamCompass | Practice questions |
 
 ---
 
@@ -125,4 +165,5 @@
 
 ---
 
-*Updated regularly as I progress.*
+**Next update:** Week 2 complete  
+*This repository documents the journey from zero toward a SOC Analyst role.*
