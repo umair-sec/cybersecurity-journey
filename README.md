@@ -18,65 +18,63 @@
 
 | Metric | Progress |
 |--------|----------|
-| Security+ | Domain 2 in progress |
-| Linux | Bandit Level 15 |
-| Networking | OSI 7 Layers + Wireshark basics |
+| Security+ | Domain 1 catch-up (Udemy); Domain 3 after Domain 1 |
+| Linux | Bandit Level **16** |
+| Networking | Packet vs Frame + OSI + Wireshark basics |
 | SOC Alerts | **7/90** solved |
-| Anki | 70 cards |
+| Anki | **80** cards |
+| 10 Key Ports | Memorized via Anki |
+
+---
+
+## Week 2 – Day 2 (August 23, 2026)
+
+### Completed
+- **Anki:** 70 cards reviewed + 10 new (80 total)
+- **TryHackMe:** Network Fundamentals — "Packet vs Frame" completed
+- **OverTheWire:** Bandit Level 16 completed (Bandit 0–16 total)
+- **10 Key Ports:** Memorized via daily Anki review
+
+### Security+ Study
+- **Udemy:** Domain 1 in progress (catching up after late course purchase)
+- **Domain 3 (Cryptography):** Starts after Domain 1 is complete
+
+### Key Learning
+> **Packet vs Frame:** Packet = Network layer (IP). Frame = Data Link layer (MAC). Knowing the difference matters for network troubleshooting and packet analysis.
 
 ---
 
 ## Week 2 – Day 1 (August 21, 2026)
 
-### Completed
-- **TryHackMe:** Network Fundamentals completed (OSI 7 Layers)
-- **Wireshark:** Installed on Kali Linux + basic capture practice
-  - Captured Google DNS (8.8.8.8) ping traffic
-  - Analyzed packet structure
-- **OverTheWire:** Bandit Level 15 completed
-- **LetsDefend:** 7th SOC Alert — SOC138 Suspicious XLS Macro Execution
-- **Anki:** 70 total cards
+- TryHackMe: OSI 7 Layers
+- Wireshark: Installed on Kali + DNS (8.8.8.8) capture practice
+- Bandit Level 15
+- LetsDefend SOC138 — Suspicious XLS Macro → PowerShell (Base64) → C2; host isolated
+- Anki: 70 cards
 
-### SOC138 Investigation
-
-| Field | Details |
-|-------|---------|
-| Case ID | SOC138 |
-| Host | Sofi (172.16.17.56) |
-| File | order_sheet_spec.xlsm |
-| Attack Vector | Malicious macro-enabled Excel |
-| Technique | PowerShell with Base64 encoding |
-| C2 Communication | Confirmed |
-| Containment | Host isolation applied |
-| Status | Closed |
-
-**Investigation notes:** Standard logs initially looked incomplete (no clear Process ID, command line, file origin, or outbound traffic). Breakthrough came from Process Name → Process Time → Command Line → Terminal History, which revealed the decoded PowerShell command and confirmed C2.
-
-**Key learning:** When standard logs do not show the full picture, dig deeper. Process Name led to Time, Time led to Command Line, Command Line led to the truth.
+**SOC138 learning:** When standard logs look empty, dig deeper — Process Name → Time → Command Line → truth.
 
 ---
 
-## Week 1 Complete (Summary)
+## Week 1 Summary
 
 | Metric | Achieved |
 |--------|----------|
 | Security+ | Domain 1–2 started |
 | Linux | Bandit 0–14, Fundamentals 1–3 |
-| SOC Alerts | 6 solved |
-| Anki | 60 cards |
-| LinkedIn | 17+ connections |
-| Practice Test | ExamCompass 89.83% (19/25) |
+| SOC Alerts | 6 solved (now 7 total) |
+| Anki | 60 → 80 (ongoing) |
+| Practice Test | ExamCompass 89.83% |
 
-### SOC Alerts (LetsDefend — now 7/90)
+### SOC Alerts (LetsDefend — 7/90)
 
 | # | Alert | Type |
 |---|-------|------|
-| 1 | SharePoint Tool Shell | True Positive |
-| 2 | Second alert | True Positive |
+| 1–2 | SharePoint / related | True Positive |
 | 3 | Lumma Stealer SOC338 | Social Engineering / Data leak |
-| 4–5 | SharePoint-related / RCE cases | RCE |
-| 6 | SOC169 IDOR Attack | IDOR (Tier 2) |
-| 7 | SOC138 Suspicious XLS Macro | Macro → PowerShell → C2 |
+| 4–5 | SharePoint ToolShell RCE cases | RCE |
+| 6 | SOC169 IDOR | IDOR (Tier 2) |
+| 7 | SOC138 XLS Macro | Macro → PowerShell → C2 |
 
 ---
 
@@ -84,28 +82,27 @@
 
 ### Linux
 - TryHackMe Linux Fundamentals 1–3
-- OverTheWire Bandit 0–15
+- OverTheWire Bandit **0–16**
 
 ### Networking
-- What is Network? / Intro to LAN / OSI 7 Layers
+- What is Network? / Intro to LAN / OSI 7 Layers / **Packet vs Frame**
 - Wireshark installed + basic packet capture
 
 ### Security+
-- Domain 1: largely covered
-- Domain 2: in progress (Firewalls/VPNs remaining)
+- Domain 1: in progress (Udemy catch-up)
+- Domain 2: partial
+- Domain 3: queued after Domain 1
 
 ---
 
-## Week 2 Plan (remaining)
+## Week 2 Remaining Focus
 
-| Focus |
-|--------|
-| Domain 3 (Implementation / Cryptography) |
-| More Network Fundamentals + TCP/IP, subnetting |
-| Bandit 16+ |
-| More LetsDefend alerts |
-| Practice questions + Anki |
-| Windows Fundamentals (later in week) |
+- Finish Domain 1 on Udemy → start Domain 3 (Cryptography)
+- More Network Fundamentals (TCP/IP, subnetting)
+- Bandit 17+
+- More LetsDefend alerts
+- Practice questions after Domain 1 foundation
+- Anki daily
 
 ---
 
