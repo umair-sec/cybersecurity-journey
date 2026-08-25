@@ -18,41 +18,49 @@
 
 | Metric | Progress |
 |--------|----------|
-| Security+ | Domain 1 catch-up (Udemy); Domain 3 after Domain 1 |
-| Linux | Bandit Level **16** |
-| Networking | Packet vs Frame + OSI + Wireshark basics |
-| SOC Alerts | **7/90** solved |
-| Anki | **80** cards |
-| 10 Key Ports | Memorized via Anki |
+| Security+ | Domain 1 catch-up (Udemy) |
+| Linux | Bandit Level **17** |
+| Networking | TCP/IP, OSI, Subnetting |
+| SOC Alerts | **9/90** solved |
+| Anki | **100** cards |
 
 ---
 
-## Week 2 – Day 2 (August 23, 2026)
+## Week 2 – Day 3 (August 25, 2026)
 
 ### Completed
-- **Anki:** 70 cards reviewed + 10 new (80 total)
-- **TryHackMe:** Network Fundamentals — "Packet vs Frame" completed
-- **OverTheWire:** Bandit Level 16 completed (Bandit 0–16 total)
-- **10 Key Ports:** Memorized via daily Anki review
+- **Anki:** 90 cards reviewed + 10 new (**100** total)
+- **Networking:** TCP/IP, OSI Model, Subnetting
+- **OverTheWire:** Bandit Level 17 completed (Bandit 0–17)
+- **Wireshark:** Packet capture practice continued
+- **LetsDefend:** 9th SOC Alert solved
 
-### Security+ Study
-- **Udemy:** Domain 1 in progress (catching up after late course purchase)
-- **Domain 3 (Cryptography):** Starts after Domain 1 is complete
+### Networking Concepts
 
-### Key Learning
-> **Packet vs Frame:** Packet = Network layer (IP). Frame = Data Link layer (MAC). Knowing the difference matters for network troubleshooting and packet analysis.
+| Concept | Understanding |
+|---------|---------------|
+| TCP/IP | 4-layer suite (Network Access, Internet, Transport, Application) |
+| OSI | 7-layer framework (Physical → Application) |
+| Subnetting | Split large networks into smaller subnets to save IPs |
+| IP Addressing | Address blocks scale in powers of 2 (2^n) |
 
 ---
 
-## Week 2 – Day 1 (August 21, 2026)
+## Week 2 – Day 2
 
-- TryHackMe: OSI 7 Layers
-- Wireshark: Installed on Kali + DNS (8.8.8.8) capture practice
+- Anki: 80 cards
+- TryHackMe: Packet vs Frame
+- Bandit Level 16
+- Key ports memorized via Anki
+
+---
+
+## Week 2 – Day 1
+
+- OSI 7 Layers + Wireshark on Kali (8.8.8.8 capture)
 - Bandit Level 15
-- LetsDefend SOC138 — Suspicious XLS Macro → PowerShell (Base64) → C2; host isolated
+- LetsDefend SOC138 — XLS Macro → PowerShell → C2
 - Anki: 70 cards
-
-**SOC138 learning:** When standard logs look empty, dig deeper — Process Name → Time → Command Line → truth.
 
 ---
 
@@ -60,21 +68,20 @@
 
 | Metric | Achieved |
 |--------|----------|
-| Security+ | Domain 1–2 started |
-| Linux | Bandit 0–14, Fundamentals 1–3 |
-| SOC Alerts | 6 solved (now 7 total) |
-| Anki | 60 → 80 (ongoing) |
+| Linux | Fundamentals 1–3 |
+| SOC Alerts | 6 in Week 1 (now 9 total) |
 | Practice Test | ExamCompass 89.83% |
 
-### SOC Alerts (LetsDefend — 7/90)
+### SOC Alerts (LetsDefend — 9/90)
 
 | # | Alert | Type |
 |---|-------|------|
 | 1–2 | SharePoint / related | True Positive |
 | 3 | Lumma Stealer SOC338 | Social Engineering / Data leak |
-| 4–5 | SharePoint ToolShell RCE cases | RCE |
+| 4–5 | SharePoint ToolShell RCE | RCE |
 | 6 | SOC169 IDOR | IDOR (Tier 2) |
 | 7 | SOC138 XLS Macro | Macro → PowerShell → C2 |
+| 8–9 | Additional LetsDefend alerts | Solved |
 
 ---
 
@@ -82,26 +89,26 @@
 
 ### Linux
 - TryHackMe Linux Fundamentals 1–3
-- OverTheWire Bandit **0–16**
+- OverTheWire Bandit **0–17**
 
 ### Networking
-- What is Network? / Intro to LAN / OSI 7 Layers / **Packet vs Frame**
-- Wireshark installed + basic packet capture
+- What is Network? / Intro to LAN / OSI / Packet vs Frame
+- TCP/IP (4 layers), Subnetting basics
+- Wireshark packet capture practice
 
 ### Security+
 - Domain 1: in progress (Udemy catch-up)
-- Domain 2: partial
 - Domain 3: queued after Domain 1
+- ExamCompass Domain 1 questions: pending
 
 ---
 
-## Week 2 Remaining Focus
+## Remaining (Week 2)
 
-- Finish Domain 1 on Udemy → start Domain 3 (Cryptography)
-- More Network Fundamentals (TCP/IP, subnetting)
-- Bandit 17+
+- Finish Udemy Domain 1 → start Domain 3 (Cryptography)
+- ExamCompass Domain 1 practice questions
+- Bandit 18+
 - More LetsDefend alerts
-- Practice questions after Domain 1 foundation
 - Anki daily
 
 ---
