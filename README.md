@@ -18,31 +18,43 @@
 
 | Metric | Progress |
 |--------|----------|
-| Security+ | Domain 1 catch-up (Udemy) |
-| Linux | Bandit Level **17** |
+| Security+ | Domain 1 nearly complete; Domain 2 started |
+| Linux | Bandit Level **18** |
 | Networking | TCP/IP, OSI, Subnetting |
-| SOC Alerts | **9/90** solved |
-| Anki | **100** cards |
+| SOC Alerts | **10/90** solved |
+| Anki | **100** cards (review focus) |
+
+---
+
+## Week 2 – Day 4 (August 26, 2026)
+
+### Completed
+- **Anki:** 100 cards reviewed (no new cards — focus on retention)
+- **Udemy:** Domain 1 nearly complete
+- **ExamCompass:** Domain 1 revision + Domain 2 started
+- **OverTheWire:** Bandit Level 18 completed (Bandit 0–18)
+- **LetsDefend:** 10th SOC Alert solved (**10/90** total)
+- **LinkedIn:** Thank-you messages sent
+
+### Security+
+
+| Domain | Status |
+|--------|--------|
+| Domain 1 (Threats) | Nearly complete |
+| Domain 2 (Architecture) | Started |
+| Domain 3 (Implementation) | Not started |
+
+**Note:** New Anki cards paused to strengthen retention. Will resume ~5/day when review load drops.
 
 ---
 
 ## Week 2 – Day 3 (August 25, 2026)
 
-### Completed
-- **Anki:** 90 cards reviewed + 10 new (**100** total)
-- **Networking:** TCP/IP, OSI Model, Subnetting
-- **OverTheWire:** Bandit Level 17 completed (Bandit 0–17)
-- **Wireshark:** Packet capture practice continued
-- **LetsDefend:** 9th SOC Alert solved
-
-### Networking Concepts
-
-| Concept | Understanding |
-|---------|---------------|
-| TCP/IP | 4-layer suite (Network Access, Internet, Transport, Application) |
-| OSI | 7-layer framework (Physical → Application) |
-| Subnetting | Split large networks into smaller subnets to save IPs |
-| IP Addressing | Address blocks scale in powers of 2 (2^n) |
+- Anki: 100 total (90 reviewed + 10 new)
+- Networking: TCP/IP, OSI, Subnetting
+- Bandit Level 17
+- Wireshark practice continued
+- LetsDefend: 9th alert
 
 ---
 
@@ -69,10 +81,10 @@
 | Metric | Achieved |
 |--------|----------|
 | Linux | Fundamentals 1–3 |
-| SOC Alerts | 6 in Week 1 (now 9 total) |
+| SOC Alerts | 6 in Week 1 (now 10 total) |
 | Practice Test | ExamCompass 89.83% |
 
-### SOC Alerts (LetsDefend — 9/90)
+### SOC Alerts (LetsDefend — 10/90)
 
 | # | Alert | Type |
 |---|-------|------|
@@ -81,7 +93,7 @@
 | 4–5 | SharePoint ToolShell RCE | RCE |
 | 6 | SOC169 IDOR | IDOR (Tier 2) |
 | 7 | SOC138 XLS Macro | Macro → PowerShell → C2 |
-| 8–9 | Additional LetsDefend alerts | Solved |
+| 8–10 | Additional LetsDefend alerts | Solved |
 
 ---
 
@@ -89,7 +101,7 @@
 
 ### Linux
 - TryHackMe Linux Fundamentals 1–3
-- OverTheWire Bandit **0–17**
+- OverTheWire Bandit **0–18**
 
 ### Networking
 - What is Network? / Intro to LAN / OSI / Packet vs Frame
@@ -97,19 +109,19 @@
 - Wireshark packet capture practice
 
 ### Security+
-- Domain 1: in progress (Udemy catch-up)
-- Domain 3: queued after Domain 1
-- ExamCompass Domain 1 questions: pending
+- Domain 1: nearly complete
+- Domain 2: started
+- Domain 3: not started
 
 ---
 
 ## Remaining (Week 2)
 
-- Finish Udemy Domain 1 → start Domain 3 (Cryptography)
-- ExamCompass Domain 1 practice questions
-- Bandit 18+
+- Finish Udemy Domain 1 final sections
+- Continue Domain 2 + ExamCompass
+- Bandit 19+
 - More LetsDefend alerts
-- Anki daily
+- Anki reviews (resume new cards when load drops)
 
 ---
 
