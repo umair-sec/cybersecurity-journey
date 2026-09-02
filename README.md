@@ -14,17 +14,32 @@
 
 ---
 
-## Current Status (Week 2)
+## Current Status (Week 2 complete — Week 3 starting)
 
 | Metric | Progress |
 |--------|----------|
 | Security+ | Domain 1 complete; Domain 2 in progress |
-| Linux | Bandit Level **20** |
+| Linux | Bandit Level **21** |
 | Windows | Fundamentals started |
 | Networking | TCP/IP, OSI, Subnetting + Wireshark ARP |
 | SOC Alerts | **11/90** solved |
-| LetsDefend | Cyber Kill Chain started |
+| LetsDefend | Cyber Chain started |
 | Anki | **100** cards (review focus) |
+
+Full Week 2 wrap-up: [weeks/week-02.md](weeks/week-02.md)
+
+---
+
+## Week 2 – Day 7 (September 2, 2026)
+
+Week 2 closed.
+
+- Domain 1 complete; Domain 2 started (not finished)
+- Domain 3 and Domain 4 not started
+- Bandit 0–21 complete
+- LetsDefend: 11 alerts + Cyber Chain started
+- TryHackMe SOC Level 1 path started
+- Anki: 100 cards
 
 ---
 
@@ -121,7 +136,7 @@
 
 ### Linux
 - TryHackMe Linux Fundamentals 1–3
-- OverTheWire Bandit **0–20**
+- OverTheWire Bandit **0–21**
 
 ### Windows
 - TryHackMe Windows Fundamentals — User Account Profile and Permission
@@ -139,11 +154,9 @@
 
 ---
 
-## Remaining (Week 2)
+## Week 3 — next
 
-- Finish Udemy Domain 2 videos
-- Continue LetsDefend Cyber Kill Chain
-- More alerts + Anki reviews
+Day 1: finish Domain 2 + Domain 2 questions + Anki review. Domain 3–4 are not Day 1 work.
 
 ---
 
