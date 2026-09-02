@@ -14,7 +14,7 @@
 
 ---
 
-## Current Status (Week 2 complete — Week 3 starting)
+## Current Status (Week 2 complete)
 
 | Metric | Progress |
 |--------|----------|
@@ -23,37 +23,21 @@
 | Windows | Fundamentals started |
 | Networking | TCP/IP, OSI, Subnetting + Wireshark ARP |
 | SOC Alerts | **11/90** solved |
-| LetsDefend | Cyber Chain started |
+| LetsDefend | Cyber Kill Chain started |
+| TryHackMe | SOC Level 1 Path started |
 | Anki | **100** cards (review focus) |
-
-Full Week 2 wrap-up: [weeks/week-02.md](weeks/week-02.md)
 
 ---
 
 ## Week 2 – Day 7 (September 2, 2026)
 
-Week 2 closed.
-
-- Domain 1 complete; Domain 2 started (not finished)
-- Domain 3 and Domain 4 not started
-- Bandit 0–21 complete
-- LetsDefend: 11 alerts + Cyber Chain started
-- TryHackMe SOC Level 1 path started
-- Anki: 100 cards
-
----
-
-## Week 2 – Day 6 (September 1, 2026)
-
 ### Completed
-- **Anki:** 100 cards reviewed (retention focus)
-- **Udemy:** Domain 2 continued (second video started)
-- **ExamCompass:** Practice Exam 1 (50 questions) + review of incorrect answers
-- **OverTheWire:** Bandit Level 20 completed (Bandit 0–20)
-- **LetsDefend:** Cyber Kill Chain started (4–5 parts identified; in progress)
-- **LinkedIn:** Thank-you messages to new connections
-
-**Milestone:** Bandit 0–20 complete.
+- **OverTheWire:** Bandit Level 21 completed (Bandit 0–21)
+- **TryHackMe:** SOC Level 1 Path started
+- **LetsDefend:** Cyber Kill Chain continued (started earlier; still in progress)
+- **Udemy:** Domain 2 still in progress (not finished)
+- **Anki:** 100 cards reviewed
+- **LinkedIn:** Week 2 progress post + thank-you messages
 
 ### Security+
 
@@ -61,27 +45,36 @@ Week 2 closed.
 |--------|--------|
 | Domain 1 (Threats) | Complete |
 | Domain 2 (Architecture) | In progress |
-| Domain 3 (Implementation) | Not started |
-| Domain 4 (Operations) | Not started |
+| Domain 3 | Not started |
+| Domain 4 | Not started |
+
+**Week 2 closed.** Daily updates continue in Week 3.
+
+---
+
+## Week 2 – Day 6 (September 1, 2026)
+
+- Anki: 100 reviewed
+- Udemy: Domain 2 continued
+- ExamCompass: Practice Exam 1 (50 questions) + mistake review
+- Bandit Level 20
+- LetsDefend: Cyber Kill Chain started
 
 ---
 
 ## Week 2 – Day 5 (August 29, 2026)
 
-- Udemy: Domain 1 completed
-- TryHackMe: Windows Fundamentals — User Account Profile and Permission
-- ExamCompass: Domain 1 practice (20 questions)
+- Domain 1 completed
+- Windows Fundamentals — User Account Profile and Permission
+- ExamCompass Domain 1 (20 questions)
 - Bandit Level 19
-- LetsDefend: 11th alert — Malware analysis
-- Wireshark: ARP request/response practice
-- Anki: 100 reviewed
-- LinkedIn: Profile updated + Week 2 post
+- LetsDefend: 11th alert — Malware
+- Wireshark ARP practice
 
 ---
 
 ## Week 2 – Day 4 (August 26, 2026)
 
-- Domain 1 nearly complete; ExamCompass Domain 2 started
 - Bandit Level 18
 - LetsDefend: 10th alert
 
@@ -89,7 +82,7 @@ Week 2 closed.
 
 ## Week 2 – Day 3 (August 25, 2026)
 
-- Networking: TCP/IP, OSI, Subnetting
+- TCP/IP, OSI, Subnetting
 - Bandit Level 17
 - LetsDefend: 9th alert
 
@@ -97,7 +90,7 @@ Week 2 closed.
 
 ## Week 2 – Day 2
 
-- TryHackMe: Packet vs Frame
+- Packet vs Frame
 - Bandit Level 16
 
 ---
@@ -116,7 +109,7 @@ Week 2 closed.
 |--------|----------|
 | Linux | Fundamentals 1–3 |
 | SOC Alerts | 6 in Week 1 (now 11 total) |
-| Practice Test | ExamCompass 89.83%; later Practice Exam 1 (50 Qs) |
+| Practice | ExamCompass 89.83%; Practice Exam 1 (50 Qs) |
 
 ### SOC Alerts (LetsDefend — 11/90)
 
@@ -143,8 +136,8 @@ Week 2 closed.
 
 ### Networking
 - What is Network? / Intro to LAN / OSI / Packet vs Frame
-- TCP/IP (4 layers), Subnetting basics
-- Wireshark: DNS capture + ARP practice
+- TCP/IP, Subnetting
+- Wireshark: DNS + ARP practice
 
 ### Security+
 - Domain 1: complete
@@ -152,11 +145,9 @@ Week 2 closed.
 - Domain 3: not started
 - Domain 4: not started
 
----
-
-## Week 3 — next
-
-Day 1: finish Domain 2 + Domain 2 questions + Anki review. Domain 3–4 are not Day 1 work.
+### SOC
+- LetsDefend 11/90 + Cyber Kill Chain started
+- TryHackMe SOC Level 1 Path started
 
 ---
 
