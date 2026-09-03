@@ -10,106 +10,76 @@
 - Aspiring SOC Analyst
 - Currently studying: CompTIA Security+ (SY0-701)
 - Practicing on: TryHackMe, LetsDefend, OverTheWire, CyberDefenders, Splunk
-- Tools: Anki (spaced repetition), Wireshark
+- Tools: Anki (spaced repetition), Wireshark, Splunk
 
 ---
 
-## Current Status (Week 2 complete)
+## Current Status (Week 3)
 
 | Metric | Progress |
 |--------|----------|
-| Security+ | Domain 1 complete; Domain 2 in progress |
-| Linux | Bandit Level **21** |
-| Windows | Fundamentals started |
-| Networking | TCP/IP, OSI, Subnetting + Wireshark ARP |
+| Security+ | Domain 1 complete; Domain 2 nearly complete |
+| Linux | Bandit Level **22** |
+| Splunk | Installed and explored |
 | SOC Alerts | **11/90** solved |
-| LetsDefend | Cyber Kill Chain started |
+| LetsDefend | Cyber Kill Chain **complete** |
 | TryHackMe | SOC Level 1 Path started |
 | Anki | **100** cards (review focus) |
 
 ---
 
-## Week 2 – Day 7 (September 2, 2026)
+## Week 3 – Day 1 (September 4, 2026)
 
 ### Completed
-- **OverTheWire:** Bandit Level 21 completed (Bandit 0–21)
-- **TryHackMe:** SOC Level 1 Path started
-- **LetsDefend:** Cyber Kill Chain continued (started earlier; still in progress)
-- **Udemy:** Domain 2 still in progress (not finished)
+- **Udemy:** Domain 2 (Architecture) nearly complete
+- **Splunk:** Installed and explored
+- **LetsDefend:** Cyber Kill Chain completed
+- **OverTheWire:** Bandit Level 22 (Bandit 0–22)
 - **Anki:** 100 cards reviewed
-- **LinkedIn:** Week 2 progress post + thank-you messages
+
+### Cyber Kill Chain
+
+| Phase | Meaning |
+|-------|--------|
+| Reconnaissance | Gathering information about the target |
+| Weaponization | Creating the exploit or malware |
+| Delivery | Sending the weapon to the target |
+| Exploitation | Triggering the vulnerability |
+| Installation | Establishing persistent access |
+| Command and Control (C2) | Communicating with the attacker |
+| Actions on Objectives | Achieving the attacker’s goal |
 
 ### Security+
 
 | Domain | Status |
 |--------|--------|
 | Domain 1 (Threats) | Complete |
-| Domain 2 (Architecture) | In progress |
+| Domain 2 (Architecture) | Nearly complete |
 | Domain 3 | Not started |
 | Domain 4 | Not started |
 
-**Week 2 closed.** Daily updates continue in Week 3.
-
 ---
 
-## Week 2 – Day 6 (September 1, 2026)
+## Week 2 (summary)
 
-- Anki: 100 reviewed
-- Udemy: Domain 2 continued
-- ExamCompass: Practice Exam 1 (50 questions) + mistake review
-- Bandit Level 20
-- LetsDefend: Cyber Kill Chain started
-
----
-
-## Week 2 – Day 5 (August 29, 2026)
-
-- Domain 1 completed
-- Windows Fundamentals — User Account Profile and Permission
-- ExamCompass Domain 1 (20 questions)
-- Bandit Level 19
-- LetsDefend: 11th alert — Malware
+- Domain 1 complete; Domain 2 started
+- Bandit 0–21
+- LetsDefend 11 alerts + Cyber Kill Chain started
+- SOC Level 1 Path started
+- Windows Fundamentals started
 - Wireshark ARP practice
+- ExamCompass Practice Exam 1 (50 Qs)
 
----
-
-## Week 2 – Day 4 (August 26, 2026)
-
-- Bandit Level 18
-- LetsDefend: 10th alert
-
----
-
-## Week 2 – Day 3 (August 25, 2026)
-
-- TCP/IP, OSI, Subnetting
-- Bandit Level 17
-- LetsDefend: 9th alert
-
----
-
-## Week 2 – Day 2
-
-- Packet vs Frame
-- Bandit Level 16
-
----
-
-## Week 2 – Day 1
-
-- OSI 7 Layers + Wireshark on Kali
-- Bandit Level 15
-- LetsDefend SOC138 — XLS Macro → PowerShell → C2
+### Week 2 – Day 7 (September 2, 2026)
+- Bandit 21
+- SOC Level 1 Path started
 
 ---
 
 ## Week 1 Summary
 
-| Metric | Achieved |
-|--------|----------|
-| Linux | Fundamentals 1–3 |
-| SOC Alerts | 6 in Week 1 (now 11 total) |
-| Practice | ExamCompass 89.83%; Practice Exam 1 (50 Qs) |
+- Linux Fundamentals 1–3
+- First SOC alerts + ExamCompass 89.83%
 
 ### SOC Alerts (LetsDefend — 11/90)
 
@@ -129,24 +99,24 @@
 
 ### Linux
 - TryHackMe Linux Fundamentals 1–3
-- OverTheWire Bandit **0–21**
+- OverTheWire Bandit **0–22**
 
 ### Windows
 - TryHackMe Windows Fundamentals — User Account Profile and Permission
 
-### Networking
-- What is Network? / Intro to LAN / OSI / Packet vs Frame
-- TCP/IP, Subnetting
-- Wireshark: DNS + ARP practice
+### Networking / SIEM
+- OSI, Packet vs Frame, TCP/IP, Subnetting
+- Wireshark: DNS + ARP
+- Splunk: installed and explored
 
 ### Security+
 - Domain 1: complete
-- Domain 2: in progress
-- Domain 3: not started
-- Domain 4: not started
+- Domain 2: nearly complete
+- Domain 3–4: not started
 
 ### SOC
-- LetsDefend 11/90 + Cyber Kill Chain started
+- LetsDefend 11/90
+- Cyber Kill Chain complete
 - TryHackMe SOC Level 1 Path started
 
 ---
