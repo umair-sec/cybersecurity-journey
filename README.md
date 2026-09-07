@@ -19,35 +19,25 @@
 | Metric | Progress |
 |--------|----------|
 | Security+ | Domain 1 complete; Domain 2 nearly complete |
-| Linux | Bandit Level **22** |
-| Splunk | Installed and explored |
+| Linux | Bandit Level **23** |
+| Splunk | Basic searches + custom roles practiced |
 | SOC Alerts | **11/90** solved |
-| LetsDefend | Cyber Kill Chain **complete** |
+| LetsDefend | Cyber Kill Chain complete; MITRE ATT&CK vs Kill Chain started |
 | TryHackMe | SOC Level 1 Path started |
 | Anki | **100** cards (review focus) |
 
 ---
 
-## Week 3 – Day 1 (September 4, 2026)
+## Week 3 – Day 2 (September 7, 2026)
 
 ### Completed
 - **Udemy:** Domain 2 (Architecture) nearly complete
-- **Splunk:** Installed and explored
-- **LetsDefend:** Cyber Kill Chain completed
-- **OverTheWire:** Bandit Level 22 (Bandit 0–22)
+- **Splunk:** Basic searches practiced (`index=*`, `sourcetype`); custom roles for remote access control
+- **OverTheWire:** Bandit Level 23 (Bandit 0–23)
+- **LetsDefend:** Cyber Kill Chain complete; next module started — **MITRE ATT&CK vs Kill Chain**
 - **Anki:** 100 cards reviewed
 
-### Cyber Kill Chain
-
-| Phase | Meaning |
-|-------|--------|
-| Reconnaissance | Gathering information about the target |
-| Weaponization | Creating the exploit or malware |
-| Delivery | Sending the weapon to the target |
-| Exploitation | Triggering the vulnerability |
-| Installation | Establishing persistent access |
-| Command and Control (C2) | Communicating with the attacker |
-| Actions on Objectives | Achieving the attacker’s goal |
+**Key learning:** Hands-on SIEM (searches + roles) teaches more than videos alone.
 
 ### Security+
 
@@ -60,19 +50,24 @@
 
 ---
 
+## Week 3 – Day 1 (September 4, 2026)
+
+- Udemy: Domain 2 nearly complete
+- Splunk: Installed and explored
+- LetsDefend: Cyber Kill Chain completed (7 phases)
+- Bandit Level 22
+- Anki: 100 reviewed
+
+---
+
 ## Week 2 (summary)
 
 - Domain 1 complete; Domain 2 started
 - Bandit 0–21
 - LetsDefend 11 alerts + Cyber Kill Chain started
 - SOC Level 1 Path started
-- Windows Fundamentals started
-- Wireshark ARP practice
+- Windows Fundamentals + Wireshark ARP
 - ExamCompass Practice Exam 1 (50 Qs)
-
-### Week 2 – Day 7 (September 2, 2026)
-- Bandit 21
-- SOC Level 1 Path started
 
 ---
 
@@ -99,7 +94,7 @@
 
 ### Linux
 - TryHackMe Linux Fundamentals 1–3
-- OverTheWire Bandit **0–22**
+- OverTheWire Bandit **0–23**
 
 ### Windows
 - TryHackMe Windows Fundamentals — User Account Profile and Permission
@@ -107,7 +102,7 @@
 ### Networking / SIEM
 - OSI, Packet vs Frame, TCP/IP, Subnetting
 - Wireshark: DNS + ARP
-- Splunk: installed and explored
+- Splunk: basic searches (`index=*`, `sourcetype`) + custom roles
 
 ### Security+
 - Domain 1: complete
@@ -117,6 +112,7 @@
 ### SOC
 - LetsDefend 11/90
 - Cyber Kill Chain complete
+- MITRE ATT&CK vs Kill Chain started
 - TryHackMe SOC Level 1 Path started
 
 ---
