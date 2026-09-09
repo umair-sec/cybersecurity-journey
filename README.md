@@ -18,26 +18,35 @@
 
 | Metric | Progress |
 |--------|----------|
-| Security+ | Domain 1 complete; Domain 2 nearly complete |
-| Linux | Bandit Level **23** |
+| Security+ | Domain 1 complete; Domain 2 nearly complete; Domain 5.1 started |
+| Linux | Bandit Level **24** |
 | Splunk | Basic searches + custom roles practiced |
 | SOC Alerts | **11/90** solved |
-| LetsDefend | Cyber Kill Chain complete; MITRE ATT&CK vs Kill Chain started |
-| TryHackMe | SOC Level 1 Path started |
+| LetsDefend | Cyber Kill Chain complete; MITRE ATT&CK in progress |
+| TryHackMe | SOC Level 1 Path + Security Principles started |
 | Anki | **100** cards (review focus) |
 
 ---
 
-## Week 3 – Day 2 (September 7, 2026)
+## Week 3 – Day 3 (September 9, 2026)
 
 ### Completed
-- **Udemy:** Domain 2 (Architecture) nearly complete
-- **Splunk:** Basic searches practiced (`index=*`, `sourcetype`); custom roles for remote access control
-- **OverTheWire:** Bandit Level 23 (Bandit 0–23)
-- **LetsDefend:** Cyber Kill Chain complete; next module started — **MITRE ATT&CK vs Kill Chain**
+- **Udemy:** Domain 2 nearly complete; Domain 5.1 (Compliance/GRC) started (studied mixed with Domain 2)
+- **TryHackMe:** Security Principles started
+- **LetsDefend:** MITRE ATT&CK — Tactics, Techniques, Procedures, Sub-techniques
+- **OverTheWire:** Bandit Level 24 (Bandit 0–24)
 - **Anki:** 100 cards reviewed
 
-**Key learning:** Hands-on SIEM (searches + roles) teaches more than videos alone.
+**Key learning:** Domain 2 and 5.1 overlap in practice — real security topics are interconnected.
+
+### MITRE ATT&CK (basics)
+
+| Component | Meaning |
+|-----------|--------|
+| Tactics | The "why" — attacker objective |
+| Techniques | The "how" — method of attack |
+| Procedures | Specific implementation |
+| Sub-techniques | Detailed variations |
 
 ### Security+
 
@@ -47,34 +56,37 @@
 | Domain 2 (Architecture) | Nearly complete |
 | Domain 3 | Not started |
 | Domain 4 | Not started |
+| Domain 5 (GRC/Compliance) | Started (5.1) |
+
+---
+
+## Week 3 – Day 2 (September 7, 2026)
+
+- Splunk: basic searches + custom roles
+- Bandit Level 23
+- MITRE ATT&CK vs Kill Chain started
+- Domain 2 nearly complete
 
 ---
 
 ## Week 3 – Day 1 (September 4, 2026)
 
-- Udemy: Domain 2 nearly complete
-- Splunk: Installed and explored
-- LetsDefend: Cyber Kill Chain completed (7 phases)
+- Splunk installed
+- Cyber Kill Chain completed
 - Bandit Level 22
-- Anki: 100 reviewed
 
 ---
 
 ## Week 2 (summary)
 
-- Domain 1 complete; Domain 2 started
-- Bandit 0–21
-- LetsDefend 11 alerts + Cyber Kill Chain started
-- SOC Level 1 Path started
-- Windows Fundamentals + Wireshark ARP
-- ExamCompass Practice Exam 1 (50 Qs)
+- Domain 1 complete; Bandit 0–21; 11 LetsDefend alerts
+- SOC Level 1 Path started; Windows Fundamentals; Wireshark ARP
 
 ---
 
 ## Week 1 Summary
 
-- Linux Fundamentals 1–3
-- First SOC alerts + ExamCompass 89.83%
+- Linux Fundamentals 1–3; first SOC alerts; ExamCompass 89.83%
 
 ### SOC Alerts (LetsDefend — 11/90)
 
@@ -94,7 +106,7 @@
 
 ### Linux
 - TryHackMe Linux Fundamentals 1–3
-- OverTheWire Bandit **0–23**
+- OverTheWire Bandit **0–24**
 
 ### Windows
 - TryHackMe Windows Fundamentals — User Account Profile and Permission
@@ -102,18 +114,19 @@
 ### Networking / SIEM
 - OSI, Packet vs Frame, TCP/IP, Subnetting
 - Wireshark: DNS + ARP
-- Splunk: basic searches (`index=*`, `sourcetype`) + custom roles
+- Splunk: basic searches + custom roles
 
 ### Security+
 - Domain 1: complete
 - Domain 2: nearly complete
+- Domain 5: started (5.1)
 - Domain 3–4: not started
 
 ### SOC
 - LetsDefend 11/90
 - Cyber Kill Chain complete
-- MITRE ATT&CK vs Kill Chain started
-- TryHackMe SOC Level 1 Path started
+- MITRE ATT&CK in progress
+- TryHackMe SOC Level 1 Path + Security Principles started
 
 ---
 
