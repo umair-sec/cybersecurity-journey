@@ -18,35 +18,39 @@
 
 | Metric | Progress |
 |--------|----------|
-| Security+ | Domain 1 complete; Domain 2 nearly complete; Domain 5.1 started |
-| Linux | Bandit Level **24** |
+| Security+ | Domain 1 complete; Domain 2 nearly complete; Domain 5 nearly complete |
+| Linux | Bandit Level **25** |
 | Splunk | Basic searches + custom roles practiced |
 | SOC Alerts | **11/90** solved |
 | LetsDefend | Cyber Kill Chain complete; MITRE ATT&CK in progress |
-| TryHackMe | SOC Level 1 Path + Security Principles started |
+| Phishing | Kill Chain delivery study (DMARC, SPF, DKIM) |
 | Anki | **100** cards (review focus) |
 
 ---
 
-## Week 3 – Day 3 (September 9, 2026)
+## Week 3 – Day 4 (September 14, 2026)
 
 ### Completed
-- **Udemy:** Domain 2 nearly complete; Domain 5.1 (Compliance/GRC) started (studied mixed with Domain 2)
-- **TryHackMe:** Security Principles started
-- **LetsDefend:** MITRE ATT&CK — Tactics, Techniques, Procedures, Sub-techniques
-- **OverTheWire:** Bandit Level 24 (Bandit 0–24)
+- **Udemy:** Domain 2 nearly complete; Domain 5 nearly complete (studied mixed)
+- **ExamCompass:** 10 practice questions
+- **Phishing study:** Delivery phase of Cyber Kill Chain; techniques and indicators; DMARC, SPF, DKIM
+- **OverTheWire:** Bandit Level 25 (Bandit 0–25)
+- **LinkedIn:** Headline updated
 - **Anki:** 100 cards reviewed
 
-**Key learning:** Domain 2 and 5.1 overlap in practice — real security topics are interconnected.
+**Key learning:** Phishing is a primary delivery method — mapping it to the Kill Chain clarifies defense.
 
-### MITRE ATT&CK (basics)
+### Phishing mapped to Cyber Kill Chain
 
-| Component | Meaning |
-|-----------|--------|
-| Tactics | The "why" — attacker objective |
-| Techniques | The "how" — method of attack |
-| Procedures | Specific implementation |
-| Sub-techniques | Detailed variations |
+| Phase | How phishing fits |
+|-------|-------------------|
+| Reconnaissance | Attacker researches the target |
+| Weaponization | Malicious payload prepared |
+| **Delivery** | **Phishing email sent** |
+| Exploitation | User clicks link or opens attachment |
+| Installation | Malware installed |
+| Command and Control | Attacker establishes C2 |
+| Actions on Objectives | Data theft, ransomware, etc. |
 
 ### Security+
 
@@ -56,24 +60,29 @@
 | Domain 2 (Architecture) | Nearly complete |
 | Domain 3 | Not started |
 | Domain 4 | Not started |
-| Domain 5 (GRC/Compliance) | Started (5.1) |
+| Domain 5 (GRC/Compliance) | Nearly complete |
+
+---
+
+## Week 3 – Day 3 (September 9, 2026)
+
+- Domain 5.1 started; MITRE ATT&CK concepts
+- Bandit Level 24
+- Security Principles started
 
 ---
 
 ## Week 3 – Day 2 (September 7, 2026)
 
-- Splunk: basic searches + custom roles
+- Splunk basic searches + custom roles
 - Bandit Level 23
 - MITRE ATT&CK vs Kill Chain started
-- Domain 2 nearly complete
 
 ---
 
 ## Week 3 – Day 1 (September 4, 2026)
 
-- Splunk installed
-- Cyber Kill Chain completed
-- Bandit Level 22
+- Splunk installed; Cyber Kill Chain completed; Bandit Level 22
 
 ---
 
@@ -106,7 +115,7 @@
 
 ### Linux
 - TryHackMe Linux Fundamentals 1–3
-- OverTheWire Bandit **0–24**
+- OverTheWire Bandit **0–25**
 
 ### Windows
 - TryHackMe Windows Fundamentals — User Account Profile and Permission
@@ -119,14 +128,14 @@
 ### Security+
 - Domain 1: complete
 - Domain 2: nearly complete
-- Domain 5: started (5.1)
+- Domain 5: nearly complete
 - Domain 3–4: not started
 
 ### SOC
 - LetsDefend 11/90
 - Cyber Kill Chain complete
 - MITRE ATT&CK in progress
-- TryHackMe SOC Level 1 Path + Security Principles started
+- Phishing as delivery (DMARC, SPF, DKIM)
 
 ---
 
