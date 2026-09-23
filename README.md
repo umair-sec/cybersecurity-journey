@@ -19,61 +19,44 @@
 | Metric | Progress |
 |--------|----------|
 | Security+ | Domain 1 complete; Domain 2+5 nearly complete; Domain 4 started |
-| Linux | Bandit Level **26** |
-| Practice exams | Exam 1 (50 Qs) + Exam 2 (75 Qs) |
+| Linux | Bandit Level **27** |
+| Practice exams | Exam 1 (50 Qs) + Exam 2 (75 Qs) + mistake review |
 | SOC Alerts | **11/90** + Phishing module complete |
 | LetsDefend | Kill Chain complete; MITRE ATT&CK in progress; Phishing complete |
 | Anki | **100** cards (review focus) |
 
 ---
 
-## Week 3 – Day 5 (September 20, 2026)
+## Week 3 – Day 6 (September 23, 2026)
 
 ### Completed
-- **Udemy:** Domain 2+5 nearly complete; Domain 4 started (in parallel)
-- **ExamCompass:** Practice Exam 2 (75 questions) + mistake review / weak areas noted
-- **LetsDefend:** Phishing module completed (indicators, headers, SPF/DKIM/DMARC, quarantine / user notify / IOCs)
-- **OverTheWire:** Bandit Level 26 (Bandit 0–26)
+- **ExamCompass:** Mistake review (wrong answers, definitions, concepts; add to Anki if needed)
+- **LetsDefend:** Reviewed previous alerts
+- **OverTheWire:** Bandit Level 27 (Bandit 0–27)
 - **Anki:** 100 cards reviewed
 
-**Key learning:** Practice exams show weak areas — documenting mistakes matters more than the score.
+**Key learning:** Reviewing mistakes is more valuable than only counting correct answers.
 
-### Security+
+---
 
-| Domain | Status |
-|--------|--------|
-| Domain 1 (Threats) | Complete |
-| Domain 2 (Architecture) | Nearly complete |
-| Domain 3 | Not started |
-| Domain 4 (Operations) | Started |
-| Domain 5 (GRC/Compliance) | Nearly complete |
+## Week 3 – Day 5 (September 20, 2026)
+
+- Domain 2+5 nearly complete; Domain 4 started
+- Practice Exam 2 (75 questions) + weak areas noted
+- LetsDefend Phishing module complete
+- Bandit Level 26
 
 ---
 
 ## Week 3 – Day 4 (September 14, 2026)
 
-- Domain 2+5 nearly complete
-- Phishing mapped to Kill Chain (Delivery)
-- Bandit Level 25
-- ExamCompass: 10 practice questions
+- Phishing mapped to Kill Chain (Delivery); Bandit 25
 
 ---
 
-## Week 3 – Day 3 (September 9, 2026)
+## Week 3 – Day 3–1 (summary)
 
-- Domain 5.1 started; MITRE ATT&CK concepts; Bandit 24
-
----
-
-## Week 3 – Day 2 (September 7, 2026)
-
-- Splunk searches + custom roles; Bandit 23; MITRE vs Kill Chain
-
----
-
-## Week 3 – Day 1 (September 4, 2026)
-
-- Splunk installed; Cyber Kill Chain completed; Bandit 22
+- MITRE ATT&CK + Security Principles; Splunk searches; Cyber Kill Chain complete; Bandit 22–24
 
 ---
 
@@ -107,7 +90,7 @@
 
 ### Linux
 - TryHackMe Linux Fundamentals 1–3
-- OverTheWire Bandit **0–26**
+- OverTheWire Bandit **0–27**
 
 ### Security+
 - Domain 1: complete
@@ -121,7 +104,7 @@
 - LetsDefend 11/90
 - Cyber Kill Chain complete
 - MITRE ATT&CK in progress
-- Phishing module complete (DMARC, SPF, DKIM)
+- Phishing module complete
 
 ---
 
