@@ -14,55 +14,71 @@
 
 ---
 
-## Current Status (Week 3)
+## Current Status (Week 3 complete)
 
 | Metric | Progress |
 |--------|----------|
-| Security+ | Domain 1 complete; Domain 2+5 nearly complete; Domain 4 started |
+| Security+ | Domain 1–2 complete; Domain 3 started; Domain 4 started; Domain 5 nearly complete |
 | Linux | Bandit Level **27** |
 | Practice exams | Exam 1 (50 Qs) + Exam 2 (75 Qs) + mistake review |
-| SOC Alerts | **11/90** + Phishing module complete |
+| SOC Alerts | **14/90** (11 earlier + 3 phishing-module alerts) |
 | LetsDefend | Kill Chain complete; MITRE ATT&CK in progress; Phishing complete |
 | Anki | **100** cards (review focus) |
 
 ---
 
-## Week 3 – Day 6 (September 23, 2026)
+## Week 3 – Day 7 (September 27, 2026)
 
 ### Completed
-- **ExamCompass:** Mistake review (wrong answers, definitions, concepts; add to Anki if needed)
-- **LetsDefend:** Reviewed previous alerts
-- **OverTheWire:** Bandit Level 27 (Bandit 0–27)
-- **Anki:** 100 cards reviewed
+- **Udemy:** Domain 2 (Architecture) completed
+- **Udemy:** Domain 3 started; Domain 4 and Domain 5 continuing in parallel (videos mixed)
+- **LetsDefend:** Phishing module cases counted — **3 additional alerts** (total **14/90**)
+- Week 3 closed
 
-**Key learning:** Reviewing mistakes is more valuable than only counting correct answers.
+### Security+
+
+| Domain | Status |
+|--------|--------|
+| Domain 1 (Threats) | Complete |
+| Domain 2 (Architecture) | Complete |
+| Domain 3 (Implementation) | Started |
+| Domain 4 (Operations) | Started |
+| Domain 5 (GRC/Compliance) | Nearly complete |
+
+---
+
+## Week 3 summary
+
+- Domain 2 complete; Domain 3–4 started; Domain 5 nearly complete
+- Practice Exam 2 (75 Qs) + mistake review
+- Bandit 22–27 this week (total 0–27)
+- Cyber Kill Chain complete; MITRE ATT&CK started
+- Phishing module complete; alerts **14/90**
+- Splunk: install, basic searches, custom roles
+
+---
+
+## Week 3 – Day 6 (September 23, 2026)
+
+- ExamCompass mistake review; Bandit 27; previous alerts reviewed
 
 ---
 
 ## Week 3 – Day 5 (September 20, 2026)
 
-- Domain 2+5 nearly complete; Domain 4 started
-- Practice Exam 2 (75 questions) + weak areas noted
-- LetsDefend Phishing module complete
-- Bandit Level 26
+- Practice Exam 2 (75 Qs); Domain 4 started; Phishing module; Bandit 26
 
 ---
 
-## Week 3 – Day 4 (September 14, 2026)
+## Earlier Week 3
 
-- Phishing mapped to Kill Chain (Delivery); Bandit 25
-
----
-
-## Week 3 – Day 3–1 (summary)
-
-- MITRE ATT&CK + Security Principles; Splunk searches; Cyber Kill Chain complete; Bandit 22–24
+- Splunk + Kill Chain + MITRE + Security Principles + Bandit 22–25
 
 ---
 
 ## Week 2 (summary)
 
-- Domain 1 complete; Bandit 0–21; 11 LetsDefend alerts
+- Domain 1 complete; Bandit 0–21; first 11 LetsDefend alerts
 - SOC Level 1 Path started; Windows Fundamentals; Wireshark ARP
 
 ---
@@ -71,7 +87,7 @@
 
 - Linux Fundamentals 1–3; first SOC alerts; ExamCompass 89.83%
 
-### SOC Alerts (LetsDefend — 11/90 + Phishing module)
+### SOC Alerts (LetsDefend — 14/90)
 
 | # | Alert | Type |
 |---|-------|------|
@@ -80,9 +96,8 @@
 | 4–5 | SharePoint ToolShell RCE | RCE |
 | 6 | SOC169 IDOR | IDOR (Tier 2) |
 | 7 | SOC138 XLS Macro | Macro → PowerShell → C2 |
-| 8–10 | Additional alerts | Solved |
-| 11 | Malware alert | Malware analysis |
-| — | Phishing module | Indicators, email auth, SOC response |
+| 8–11 | Additional + malware | Solved |
+| 12–14 | Phishing module alerts | Phishing / email auth / SOC response |
 
 ---
 
@@ -93,15 +108,14 @@
 - OverTheWire Bandit **0–27**
 
 ### Security+
-- Domain 1: complete
-- Domain 2: nearly complete
+- Domain 1–2: complete
+- Domain 3: started
 - Domain 4: started
 - Domain 5: nearly complete
-- Domain 3: not started
 - Practice Exam 2 (75 Qs) + mistake review
 
 ### SOC
-- LetsDefend 11/90
+- LetsDefend **14/90**
 - Cyber Kill Chain complete
 - MITRE ATT&CK in progress
 - Phishing module complete
