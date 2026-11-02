@@ -31,8 +31,8 @@ Each lab write-up follows the same structure: **Objective â†’ Platform & date â†
 | Linux | OverTheWire Bandit level **27** |
 | Practice exams | Exam 1 (50 Qs) + Exam 2 (75 Qs) + mistake review |
 | SOC alerts | **14/90** on LetsDefend |
-| LetsDefend | Cyber Kill Chain complete; Phishing Expert complete; MITRE ATT&CK in progress |
-| TryHackMe | SOC Level 1 path in progress (latest: Windows Logging for SOC, 25 October 2026) |
+| LetsDefend | Cyber Kill Chain complete; Phishing Expert complete; Web Attack Investigator path complete (28 October 2026); MITRE ATT&CK in progress |
+| TryHackMe | SOC Level 1 path in progress (latest: Pyramid of Pain and Splunk 2, 28 October 2026) |
 | Anki | **100** cards |
 
 ---
@@ -73,6 +73,9 @@ Each lab write-up follows the same structure: **Objective â†’ Platform & date â†
 | 2026-10-09 | TryHackMe | [Introduction to SOAR](labs/tryhackme/2026-10-09-introduction-to-soar.md) | Playbooks, automation |
 | 2026-10-20 | TryHackMe | [Windows Event Logs](labs/tryhackme/2026-10-20-windows-event-logs.md) | Validating evidence |
 | 2026-10-25 | TryHackMe | [Windows Logging for SOC](labs/tryhackme/2026-10-25-windows-logging-for-soc.md) | RDP, Sysmon, PowerShell |
+| 2026-10-28 | TryHackMe | [Pyramid of Pain](labs/tryhackme/2026-10-28-pyramid-of-pain.md) | IOCs vs TTPs, ANY.RUN, VirusTotal |
+| 2026-10-28 | TryHackMe | [Splunk 2 (BOTS v2)](labs/tryhackme/2026-10-28-splunk-2-bots-v2.md) | Splunk, PowerShell decoding, C2 |
+| 2026-10-28 | LetsDefend | [Web Attack Investigator path](labs/letsdefend/2026-10-28-web-attack-investigator-path.md) | SQLi, XSS, IDOR, LFI/RFI in Apache logs |
 
 ---
 
