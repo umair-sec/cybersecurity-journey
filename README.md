@@ -15,11 +15,13 @@ cybersecurity-journey/
 │   ├── tryhackme/        # SOC Level 1 path rooms and modules
 │   ├── letsdefend/       # SOC alert investigations and training modules
 │   └── splunk-home-lab/  # My own Splunk Enterprise lab
+├── detections/           # Reusable Splunk SPL searches from the write-ups
+├── templates/            # Write-up template
 ├── weeks/                # Weekly progress logs
 └── README.md
 ```
 
-Each lab write-up follows the same structure: **Objective → Platform & date → Key steps → Key concepts / commands → Findings → MITRE ATT&CK (where applicable) → Lessons learned → link to the original LinkedIn post**.
+Each lab write-up follows the same structure: **Objective → Platform & date → Key steps → Key concepts / commands → Findings → MITRE ATT&CK (where applicable) → Lessons learned → link to the original LinkedIn post**. New write-ups start from [`templates/WRITEUP_TEMPLATE.md`](templates/WRITEUP_TEMPLATE.md).
 
 ---
 
