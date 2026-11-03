@@ -1,0 +1,13 @@
+```
+Search: logons outside normal working hours (simple time baseline)
+Data: Windows Security log, Event ID 4624
+MITRE ATT&CK: T1078 Valid Accounts
+Source: labs/splunk-home-lab/2026-09-06-noise-reduction-threat-hunting-workflow.md
+Tune: change the 08-19 window and the weekend rule to match the real baseline of each user
+```
+index=* sourcetype="WinEventLog:Security" EventCode=4624 Logon_Type IN (2, 10)
+  NOT Account_Name IN ("SYSTEM", "*$")
+| eval hour=tonumber(strftime(_time, "%H")), day=strftime(_time, "%a")
+| where hour<8 OR hour>=19 OR day="Sat" OR day="Sun"
+| stats count values(hour) as hours values(day) as days by Account_Name ComputerName
+| sort - count

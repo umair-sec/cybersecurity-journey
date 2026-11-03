@@ -1,0 +1,11 @@
+```
+Search: most contacted URIs from a suspicious host (majority behaviour, not the first match)
+Data: web/proxy or stream:http logs
+MITRE ATT&CK: T1071.001 Application Layer Protocol: Web Protocols
+Source: labs/tryhackme/2026-10-28-splunk-2-bots-v2.md
+Lesson: in BOTS v2 the first decoded URL (news.php) was not the answer; counting showed process.php
+Replace <suspicious_ip> with the host or C2 IP under investigation
+```
+index=* sourcetype="stream:http" (src_ip="<suspicious_ip>" OR dest_ip="<suspicious_ip>")
+| stats count by uri_path dest_ip
+| sort - count

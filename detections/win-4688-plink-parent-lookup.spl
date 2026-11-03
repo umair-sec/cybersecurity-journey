@@ -1,0 +1,9 @@
+```
+Search: Windows Security 4688 (process creation) for plink.exe, then trace its creator (parent) process
+Data: Windows Security log with process creation auditing enabled
+MITRE ATT&CK: T1572 Protocol Tunneling
+Source: labs/splunk-home-lab/2026-09-10-plink-event-4688-investigation.md
+Tip: take the Creator_Process_ID from the result and search for it as New_Process_ID to find the parent
+```
+index="attack_labs" EventCode=4688 New_Process_Name="*plink.exe"
+| table _time ComputerName Account_Name New_Process_Name New_Process_ID Creator_Process_ID Process_Command_Line

@@ -1,0 +1,8 @@
+```
+Search: plink.exe in Sysmon process creation events (Event ID 1)
+Data: Sysmon Operational log indexed in Splunk (home lab index "attack_labs")
+MITRE ATT&CK: T1572 Protocol Tunneling (plink is often used for SSH tunnels)
+Source: labs/splunk-home-lab/2026-09-10-plink-event-4688-investigation.md
+Note: copied as used in the lab. It returned 0 events because Sysmon was not indexed there.
+```
+index="attack_labs" ComputerName="PC01.example.corp" EventCode=1 plink.exe

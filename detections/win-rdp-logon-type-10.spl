@@ -1,0 +1,12 @@
+```
+Search: successful remote interactive (RDP) logons, whatever port was used
+Data: Windows Security log, Event ID 4624
+MITRE ATT&CK: T1021.001 Remote Services: Remote Desktop Protocol
+Source: labs/splunk-home-lab/2026-09-06-noise-reduction-threat-hunting-workflow.md
+Noise reduction: drop system/machine accounts. 4672 events are not searched here.
+```
+index=* sourcetype="WinEventLog:Security" EventCode=4624 Logon_Type=10
+  NOT Account_Name IN ("SYSTEM", "LOCAL SERVICE", "NETWORK SERVICE", "*$")
+| stats count min(_time) as first_seen max(_time) as last_seen values(Source_Network_Address) as src_ips by Account_Name ComputerName
+| convert ctime(first_seen) ctime(last_seen)
+| sort - count

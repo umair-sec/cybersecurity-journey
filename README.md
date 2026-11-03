@@ -81,6 +81,12 @@ Each lab write-up follows the same structure: **Objective → Platform & date �
 
 ---
 
+## 🔎 Detections
+
+Reusable Splunk SPL searches taken from the write-ups (plink.exe tracing, RDP Logon Type 10, off-hours logons, encoded PowerShell, C2 URI counting) are in [`detections/`](detections/), each with a comment header and a link back to its write-up.
+
+---
+
 ## 🗓️ Weekly logs
 
 | Week | Log | Notes |
