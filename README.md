@@ -127,7 +127,7 @@ TryHackMe (SOC Level 1 path) · LetsDefend · OverTheWire · CyberDefenders · S
 
 ## 🤝 Connect with me
 
-- LinkedIn: [Umair Ahmed](https://www.linkedin.com/in/umair-ahmed-063a03426)
+- LinkedIn: [Umair Ahmed](https://www.linkedin.com/in/umair-ahmed-soc)
 - GitHub: [umair-sec](https://github.com/umair-sec)
 
 ---
