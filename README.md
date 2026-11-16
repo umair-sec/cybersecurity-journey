@@ -14,6 +14,7 @@ cybersecurity-journey/
 ├── labs/
 │   ├── tryhackme/        # SOC Level 1 path rooms and modules
 │   ├── letsdefend/       # SOC alert investigations and training modules
+│   ├── cyberdefenders/   # CyberDefenders blue-team labs
 │   └── splunk-home-lab/  # My own Splunk Enterprise lab
 ├── notes/                # Mixed-platform or first-day write-ups
 ├── detections/           # Reusable Splunk SPL searches from the write-ups
@@ -45,9 +46,14 @@ Each lab write-up follows the same structure: **Objective → Platform & date �
 | Date | Platform | Lab | Focus |
 |------|----------|-----|-------|
 | 2026-08-05 | TryHackMe / OverTheWire | [Day 1: Pre-Security and Bandit](notes/2026-08-05-day-1-pre-security-and-bandit.md) | Pre-Security (2 rooms), Bandit 0–1, Kali |
+| 2026-08 (Week 1) | TryHackMe | [Linux Fundamentals Part 1](labs/tryhackme/2026-08-week1-linux-fundamentals-part-1.md) | Terminal basics (summary from Week 1 log) |
+| 2026-08 (Week 1) | TryHackMe | [Linux Fundamentals Part 2](labs/tryhackme/2026-08-week1-linux-fundamentals-part-2.md) | SSH, commands, filesystem (summary from Week 1 log) |
 | 2026-08-11 | TryHackMe | [Linux Fundamentals Part 3](labs/tryhackme/2026-08-11-linux-fundamentals-part-3.md) | Permissions, find/grep/awk, processes |
 | 2026-08-14 | LetsDefend | [SOC170: LFI attack](labs/letsdefend/2026-08-14-soc170-lfi-attack.md) | Web attack triage |
 | 2026-08-16 | LetsDefend | [SOC169: IDOR attack](labs/letsdefend/2026-08-16-soc169-idor-attack.md) | Web attack, Tier 2 escalation |
+| 2026-08 (Week 1) | LetsDefend | [SharePoint ToolShell](labs/letsdefend/2026-08-week1-sharepoint-toolshell.md) | SOC alert solved (summary from Week 1 log) |
+| 2026-08 (Week 1) | LetsDefend | [Lumma Stealer](labs/letsdefend/2026-08-week1-lumma-stealer.md) | Social engineering alert (summary from Week 1 log) |
+| 2026-08 (Week 1) | CyberDefenders | [Just Brains](labs/cyberdefenders/2026-08-week1-just-brains.md) | Lab + 9 questions (summary from Week 1 log) |
 | 2026-08-20 | LetsDefend | [SOC138: Excel macro → PowerShell](labs/letsdefend/2026-08-20-soc138-excel-macro-powershell.md) | Malware, process lineage |
 | 2026-08-24 | TryHackMe | [Network Fundamentals](labs/tryhackme/2026-08-24-network-fundamentals.md) | OSI, LAN, firewalls |
 | 2026-08-25 | LetsDefend | [SOC282: "Free Coffee Voucher" phishing](labs/letsdefend/2026-08-25-soc282-phishing-free-coffee-voucher.md) | Phishing, typosquatting, Kali VM |

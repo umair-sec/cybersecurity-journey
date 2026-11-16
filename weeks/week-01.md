@@ -21,17 +21,17 @@ Write-up: [Day 1: TryHackMe Pre-Security and OverTheWire Bandit](../notes/2026-0
 - ExamCompass Practice Test 1: **89.83%**
 
 **Linux skills**
-- TryHackMe: Linux Fundamentals Parts 1–3 ([Part 3 write-up](../labs/tryhackme/2026-08-11-linux-fundamentals-part-3.md))
+- TryHackMe: Linux Fundamentals Parts 1–3 ([Part 1](../labs/tryhackme/2026-08-week1-linux-fundamentals-part-1.md), [Part 2](../labs/tryhackme/2026-08-week1-linux-fundamentals-part-2.md), [Part 3](../labs/tryhackme/2026-08-11-linux-fundamentals-part-3.md))
 - OverTheWire: Bandit levels **0–14** completed
 - Pre-Security path: Virtualization Basics and Intro to LAN
 
 **SOC practice**
 - LetsDefend: **6 SOC alerts** solved, including:
-  - SharePoint ToolShell
-  - Lumma Stealer (social engineering)
+  - SharePoint ToolShell ([write-up](../labs/letsdefend/2026-08-week1-sharepoint-toolshell.md))
+  - Lumma Stealer (social engineering) ([write-up](../labs/letsdefend/2026-08-week1-lumma-stealer.md))
   - IDOR attack, escalated to Tier 2 ([SOC169 write-up](../labs/letsdefend/2026-08-16-soc169-idor-attack.md))
 - Also during Week 1: [SOC170 LFI write-up](../labs/letsdefend/2026-08-14-soc170-lfi-attack.md)
-- CyberDefenders: "Just Brains" lab (9 questions)
+- CyberDefenders: "Just Brains" lab (9 questions) ([write-up](../labs/cyberdefenders/2026-08-week1-just-brains.md))
 
 **Memory training**
 - Anki: 60 flashcards created, with a daily review every day
