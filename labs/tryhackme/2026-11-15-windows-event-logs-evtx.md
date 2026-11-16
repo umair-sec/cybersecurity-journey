@@ -6,7 +6,7 @@ Investigate Windows Security and PowerShell events and query EVTX files with Pow
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | Windows Event Logs | 15 November 2026 |
+| TryHackMe | [Windows Event Logs](https://tryhackme.com/room/windowseventlogs) | 15 November 2026 |
 
 ## What I did / key steps
 1. Investigated Windows Security and PowerShell events

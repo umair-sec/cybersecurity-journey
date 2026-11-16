@@ -6,7 +6,7 @@ Learn where and how to capture network traffic efficiently.
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | Network Traffic Basics | 9 November 2026 |
+| TryHackMe | [Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics) | 9 November 2026 |
 
 ## What I did / key steps
 1. Network TAP placement

@@ -6,7 +6,7 @@ Understand what normal Windows process behaviour looks like, so that abnormal be
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | Core Windows Processes | 1 October 2026 |
+| TryHackMe | [Core Windows Processes](https://tryhackme.com/room/btwindowsinternals) | 1 October 2026 |
 
 ## What I did / key steps
 Studied the key processes:

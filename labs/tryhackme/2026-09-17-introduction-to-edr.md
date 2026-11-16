@@ -6,7 +6,7 @@ Learn how EDR gives much deeper endpoint visibility than traditional antivirus, 
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | Introduction to EDR | 17 September 2026 |
+| TryHackMe | [Introduction to EDR](https://tryhackme.com/room/introductiontoedrs) | 17 September 2026 |
 
 ## What I did / key steps
 - EDR architecture: agents/sensors and the central console

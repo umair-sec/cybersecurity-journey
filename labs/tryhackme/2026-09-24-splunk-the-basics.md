@@ -6,7 +6,7 @@ Review Splunk fundamentals as part of following the SOC Level 1 path properly, e
 ## Platform & date
 | Platform | Room | Path | Completed |
 |---|---|---|---|
-| TryHackMe | Splunk: The Basics | SOC Level 1 | 24 September 2026 |
+| TryHackMe | [Splunk: The Basics](https://tryhackme.com/room/splunk101) | SOC Level 1 | 24 September 2026 |
 
 ## What I did / key steps
 - Reviewed the Splunk architecture: **Forwarder, Indexer and Search Head**

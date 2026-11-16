@@ -6,7 +6,7 @@ Map attack techniques to Cyber Kill Chain stages (practical based on the 2013 Ta
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | Cyber Kill Chain | 9 November 2026 |
+| TryHackMe | [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt) | 9 November 2026 |
 
 ## What I did / key steps
 1. Reconnaissance and Weaponization

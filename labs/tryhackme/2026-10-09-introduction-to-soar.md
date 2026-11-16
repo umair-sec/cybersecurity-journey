@@ -6,7 +6,7 @@ Learn how Security Orchestration, Automation and Response (SOAR) helps with comm
 ## Platform & date
 | Platform | Room | Path | Completed |
 |---|---|---|---|
-| TryHackMe | SOAR | SOC Level 1 | 9 October 2026 |
+| TryHackMe | [Introduction to SOAR](https://tryhackme.com/room/soar) | SOC Level 1 | 9 October 2026 |
 
 ## What I did / key steps
 - Reviewed traditional SOC processes and their challenges

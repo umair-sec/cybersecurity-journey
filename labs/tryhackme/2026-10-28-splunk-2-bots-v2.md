@@ -6,7 +6,7 @@ Investigate the Boss of the SOC (BOTS) v2 dataset in Splunk and answer a series 
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | [Splunk 2](https://tryhackme.com/room/splunk2gcd5?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=linkedin&sharerId=6a37e7b4889f268cff26ad15) | 28 October 2026 |
+| TryHackMe | [Splunk 2](https://tryhackme.com/room/splunk2gcd5) | 28 October 2026 |
 
 ## What I did / key steps
 1. Practised **SMTP** analysis and **SSL/TCP** investigation in Splunk.

@@ -6,7 +6,7 @@ While working through the Windows Event Logs room, I hit an inconsistency in one
 ## Platform & date
 | Platform | Room | Date |
 |---|---|---|
-| TryHackMe | Windows Event Logs | 20 October 2026 |
+| TryHackMe | [Windows Event Logs](https://tryhackme.com/room/windowseventlogs) | 20 October 2026 |
 
 ## What I did / key steps
 1. The task asked: *"What is the Event ID for the earliest recorded event? (Exclude the warning event)"*. The instructions said to analyse the saved `merged.evtx` log.

@@ -6,7 +6,7 @@ Build a working understanding of the cryptographic mechanisms behind secure comm
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | Introduction to Cryptography | 5 October 2026 |
+| TryHackMe | [Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro) | 5 October 2026 |
 
 ## What I did / key steps
 - Classical ciphers and substitution techniques

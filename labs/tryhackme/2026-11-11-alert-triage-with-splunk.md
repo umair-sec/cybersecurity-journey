@@ -6,7 +6,7 @@ Move from a security alert to evidence-based conclusions in Splunk.
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | Alert Triage With Splunk | 11 November 2026 |
+| TryHackMe | [Alert Triage With Splunk](https://tryhackme.com/room/alerttriagewithsplunk) | 11 November 2026 |
 
 ## What I did / key steps
 1. **Linux Brute Force**: authentication activity, failed vs successful logins, post-compromise behaviour

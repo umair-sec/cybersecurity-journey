@@ -6,7 +6,7 @@ Learn how a SIEM brings together logs from different sources and turns individua
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | Introduction to SIEM | 20 September 2026 |
+| TryHackMe | [Introduction to SIEM](https://tryhackme.com/room/introtosiem) | 20 September 2026 |
 
 ## What I did / key steps
 - Host-centric vs network-centric log sources

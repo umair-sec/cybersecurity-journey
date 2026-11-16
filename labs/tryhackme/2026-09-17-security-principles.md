@@ -6,7 +6,7 @@ Strengthen my understanding of the core concepts behind cybersecurity.
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | Security Principles | 17 September 2026 |
+| TryHackMe | [Security Principles](https://tryhackme.com/room/securityprinciples) | 17 September 2026 |
 
 ## What I did / key steps
 - **CIA Triad** (Confidentiality, Integrity, Availability) and its opposite, the **DAD Triad** (Disclosure, Alteration, Destruction/Denial)

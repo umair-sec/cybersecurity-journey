@@ -6,7 +6,7 @@ Investigate Windows authentication, user-management, Sysmon and PowerShell evide
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | Windows Logging for SOC | 25 October 2026 |
+| TryHackMe | [Windows Logging for SOC](https://tryhackme.com/room/windowsloggingforsoc) | 25 October 2026 |
 
 ## What I did / key steps
 1. **Authentication logs:** I found that a 4624 event with Logon Type 10 was not enough on its own. To identify the actual malicious RDP session, I correlated the **Source IP**, **username** and **Logon ID**.

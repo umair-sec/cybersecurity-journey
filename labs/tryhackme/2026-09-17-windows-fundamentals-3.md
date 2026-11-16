@@ -6,7 +6,7 @@ Understand the security features built directly into the Windows operating syste
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | Windows Fundamentals 3 | 17 September 2026 |
+| TryHackMe | [Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx) | 17 September 2026 |
 
 ## What I did / key steps
 - Windows Update and Patch Tuesday

@@ -6,7 +6,7 @@ Understand why logs are such an important source of evidence in security investi
 ## Platform & date
 | Platform | Room | Completed |
 |---|---|---|
-| TryHackMe | Logs Fundamentals | 21 September 2026 |
+| TryHackMe | [Logs Fundamentals](https://tryhackme.com/room/logsfundamentals) | 21 September 2026 |
 
 ## What I did / key steps
 - Studied the different log types and their use cases: System, Security, Application, Audit, Network and Access logs

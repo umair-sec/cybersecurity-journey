@@ -7,9 +7,10 @@
 ---
 
 ## Day 1 (5 August 2026)
+Write-up: [Day 1: TryHackMe Pre-Security and OverTheWire Bandit](../notes/2026-08-05-day-1-pre-security-and-bandit.md)
 - Started TryHackMe **Pre-Security** and completed 2 rooms
 - OverTheWire **Bandit** levels 0 and 1 on Kali Linux
-- Started preparing for **CompTIA Security+** and documenting everything on GitHub
+- Started preparing for **CompTIA Security+** (in preparation) and documenting everything on GitHub
 
 ---
 

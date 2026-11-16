@@ -6,7 +6,7 @@ Learn the Elastic Stack and use Kibana to investigate VPN logs.
 ## Platform & date
 | Platform | Room | Path | Completed |
 |---|---|---|---|
-| TryHackMe | Elastic Stack (ELK) | SOC Level 1 | 1 October 2026 |
+| TryHackMe | [Elastic Stack (ELK)](https://tryhackme.com/room/investigatingwithelk101) | SOC Level 1 | 1 October 2026 |
 
 ## What I did / key steps
 - Learned the components: **Elasticsearch, Logstash, Beats and Kibana**
